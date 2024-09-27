@@ -31,5 +31,13 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 
 HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utilizado para crear páginas web
 
- <span class="pointer-events-none fixed inset-0 z-[60] mx-auto my-2 flex max-w-[560px] flex-col items-stretch justify-start md:pb-5"></span>
+ <html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página Web</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a mi página web</h1>
 
