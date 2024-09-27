@@ -21,8 +21,8 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 
 | Aplicaciones |Visto | 
 |---------------:|---------------:|
-|Google Docs|![fototik](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg "titulo opcional de la imagen")|
-|Google Slides|https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg|
-|Google Sheets|https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg|
+|Google Docs|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
+|Google Slides|https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik1.jpg|
+|Google Sheets|https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik1.jpg|
 |Google Calendar|
 |Google Meet|
