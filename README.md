@@ -18,9 +18,11 @@ Una aplicación web es un programa o software que se ejecuta en un servidor y se
 Una herramienta ofimática es un tipo de software diseñado para facilitar y automatizar tareas de oficina como la creación, edición y gestión de documentos, presentaciones, hojas de cálculo, bases de datos y otros tipos de información. 
 
 5 - Herramientas de de Google
-| Aplicaciones   | Visto    | 
-| Google Docs    |![fototik](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg "titulo opcional de la imagen")|
-| Google Slides  |https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg|
-| Google Sheets  |https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg|
-| Google Calendar|
-| Google Meet    |
+
+| Aplicaciones |Visto | 
+|---------------:|---------------:|
+|Google Docs|![fototik](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg "titulo opcional de la imagen")|
+|Google Slides|https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg|
+|Google Sheets|https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/fototik.jpg|
+|Google Calendar|
+|Google Meet|
