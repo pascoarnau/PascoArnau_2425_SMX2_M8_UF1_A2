@@ -26,3 +26,10 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 |Google Sheets|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
 |Google Calendar|![fotocalen](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftocalen.png "titulo opcional de la imagen")|
 |Google Meet|![ftopc](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png "titulo opcional de la imagen")|
+
+6 - ¿Qué es HTML ?
+
+HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utilizado para crear páginas web
+
+ <span class="pointer-events-none fixed inset-0 z-[60] mx-auto my-2 flex max-w-[560px] flex-col items-stretch justify-start md:pb-5"></span>
+
