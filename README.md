@@ -19,10 +19,10 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 
 5 - Herramientas de de Google
 
-| Aplicaciones |Visto | 
+| Aplicaciones | Visto | 
 |---------------:|---------------:|
 |Google Docs|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
 |Google Slides|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
 |Google Sheets|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
 |Google Calendar|![fotocalen](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftocalen.png "titulo opcional de la imagen")|
-|Google Meet|
+|Google Meet|![ftopc](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png "titulo opcional de la imagen")|
