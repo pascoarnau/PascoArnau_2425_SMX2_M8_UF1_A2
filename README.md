@@ -25,7 +25,7 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 |Google Slides|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png" alt="Visto" width="40"/>|
 |Google Sheets|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png" alt="Visto" width="40"/>|
 |Google Calendar|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftocalen.png" alt="calendario" width="40"/>|
-|Google Meet|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftocalen.png" alt="Visto" width="39"/>|
+|Google Meet|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png" alt="Visto" width="39"/>|
 
 6 - ¿Qué es HTML ?
 github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png
