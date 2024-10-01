@@ -51,5 +51,5 @@ CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la **presen
 
 8 - Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotabla.png"|
+<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotabla.png">|
  
