@@ -28,7 +28,7 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 |Google Meet|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png" alt="Visto" width="39"/>|
 
 6 - ¿Qué es HTML ?
-github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png
+
 HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utilizado para crear páginas web
 ```
 <!DOCTYPE html>
@@ -46,6 +46,12 @@ HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utiliza
 ```
 
 7 - ¿Qué es CSS?
+
+CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la **presentación** o el diseño visual de un documento HTML. Mientras que HTML se encarga de estructurar el contenido de una página web, CSS se utiliza para definir cómo ese contenido debe verse, incluyendo aspectos como colores, fuentes, márgenes, alineaciones, y disposición de los elementos en la página.
+
+8 - Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotabla.png" alt="Visto" width="40"/>|
 
 
  
