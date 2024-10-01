@@ -21,10 +21,10 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 
 | Aplicaciones | Visto | 
 |---------------:|---------------:|
-|Google Docs|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
-|Google Slides|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
-|Google Sheets|![fototik1](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png "titulo opcional de la imagen")|
-|Google Calendar|![fotocalen](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftocalen.png "titulo opcional de la imagen")|
+|Google Docs|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png" alt="Visto" width="40"/>|
+|Google Slides|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png" alt="Visto" width="40"/>|
+|Google Sheets|<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftotik1.png" alt="Visto" width="40"/>|
+|Google Calendar|<img src="https://https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftocalen.png" alt="Visto" width="40"/>|
 |Google Meet|![ftopc](https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/blob/main/ftopc.png "titulo opcional de la imagen")|
 
 6 - ¿Qué es HTML ?
@@ -45,6 +45,7 @@ HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utiliza
 </html>
 ```
 
-7 -
+7 - ¿Qué es CSS?
+
 
  
