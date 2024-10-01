@@ -29,6 +29,8 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 
 6 - ¿Qué es HTML ?
 
+HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utilizado para crear páginas web
+
 <!DOCTYPE html>
 <HTML lang=''en''>
 <head>
@@ -41,8 +43,6 @@ Una herramienta ofimática es un tipo de software diseñado para facilitar y aut
 
 </body>
 </html>
-
-HTML (HyperText Markup Language) es el **lenguaje de marcado** estándar utilizado para crear páginas web
 
 7 -
 
